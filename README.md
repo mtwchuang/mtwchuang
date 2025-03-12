@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtwchuang
-- 🌱 I’m an aspiring data guy, learning more about data engineering, data analytics and data science. Looking to do more data projects involving data modelling tools, data analytics, machine learning or even large language models. 
+- 🌱 Am an aspiring data guy, looking to learn more about data engineering, data analytics and data science. Looking to do more data projects involving data modelling tools, data analytics, machine learning or even large language models. 
 - 📫 Feel free to drop me a text here or to my discord @Actarnix
 
 <!---
