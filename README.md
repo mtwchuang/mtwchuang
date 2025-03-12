@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtwchuang
-- 🌱 Am an aspiring data guy, looking to learn more about data engineering, data analytics and data science. Looking to do more data projects involving data modelling tools, data analytics, machine learning or even large language models. 
-- 📫 Feel free to drop me a text here or to my discord @Actarnix
+- 🌱 Am an aspiring data guy, looking to learn more about data engineering, data analytics and data science.
+- 📫  Looking to do more data projects involving data modelling tools, data analytics, machine learning or even large language models. Feel free to drop me a text here or to my discord @Actarnix
 
 <!---
 mtwchuang/mtwchuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
